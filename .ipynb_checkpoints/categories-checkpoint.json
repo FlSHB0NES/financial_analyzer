@@ -1,0 +1,5 @@
+{
+  "Eating Out": ["Tim Hortons", "McDonalds", "Starbucks"],
+  "Groceries": ["Walmart", "Costco", "Superstore"],
+  "Transportation": ["Uber", "Lyft", "Bus"]
+}

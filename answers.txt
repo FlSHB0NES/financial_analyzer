@@ -1,0 +1,102 @@
+Purchases, Convenience
+Purchases, Amazon
+Dining Out, Lonestar
+Non-Routine, Flying Squirrel
+Dining Out, Marble Slab
+Non-Routine, Famous Player
+Dining Out, Dennys
+Purchases, Oculus
+Dining Out, Los Lobos
+Non-Routine, IVEY
+Purchases, Dollarama
+Dining Out, Pho Lee
+Dining Out, Einstein's
+Dining Out, Spoke
+Dining Out, Katsu
+Purchases, Richmond
+Dining Out, Barking Frog
+Purchases, Amazon
+Partying, Barking Frog
+Partying, Barking Frog
+Purchases, Hot Topic
+Purchases, Dineen
+Dining Out, Sushi Roncy
+Purchases, Chess.com
+Purchases, Apple Store
+Dining Out, Chess.com
+Dining Out, Sushi Roncy
+Dining Out, Mabels
+Dining Out, Coca Cola
+Purchases, Petrocan
+Purchases, Apple.com
+Dining Out, Barakats
+Purchases, Apple.com
+Dining Out, Cupbop Plus
+Dining Out, Dollarama
+Dining Out, Burger Burger
+Dining Out, Dollarama
+Dining Out, Spoke
+Dining Out, Los Lobos
+Dining Out, I Deal
+Purchases, Tonality
+Dining Out, Rose
+Dining Out, Reunion Island
+Dining Out, Chatime
+Dining Out, Black Walnut
+Dining Out, Famous Player
+Dining Out, Macs Sushi
+Dining Out, Wave
+Dining Out McDonald's
+Dining Out, Beavertails
+Non-Routine, Ghost Blasters
+Non-Routine, Wizards
+Dining Out, Country Chalet
+Dining Out, Turtlejack's
+Purchases, Amazon.ca
+Dining Out, Omzzy's
+Dining Out, Bombay Bistro
+Dining Out, Amazon.ca
+Dining Out, Food Island
+Dining Out, Quynh Nhi
+Dining Out, Spoke
+Dining Out, Spoke
+Dining Out, Subway
+Dining Out,  Cora
+Dining Out, Gong Cha
+Dining Out, Sansotei
+Dining Out, Wild Heart
+Dining Out, Tokyo Smoke
+Dining Out, Mercantile
+Dining Out, Popeyes
+Dining Out, McDonald's
+Purchases, Eventbrite
+Partying, Steam
+Partying, Chucks Roadhouse
+Purchases, Winners
+Dining Out, Spoke
+Dining Out, Koya
+Transit, U Need A Cab
+Dining Out, Spoke
+Dining Out, Spoke
+Dining Out, Chatime
+Dining Out, East Side Marios
+Dining Out, Fantail
+Purchases, McDonald's
+Dining Out, Coco
+Dining Out, Subway
+Dining Out, McDonald's
+Partying, Poacher's Arms
+Dining Out, Popeyes
+Transportation, Earls
+Dining Out, Fantail
+Transportation, Northwood
+Dining Out, Banjara
+Non-Routine, Club Monaco
+Non-Routine, Bandit
+Purchases, Tonality
+Dining Out, McDonald's
+Dining Out, East
+Dining Out, McDonald's
+Dining Out, Rocky Mountain
+Groceries, Wild Wing
+Dining Out, Copper
